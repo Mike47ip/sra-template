@@ -28,7 +28,7 @@ const Navbar = () => {
         {/* Main Navigation */}
         <nav className="border-t border-gray-800 py-4">
           <div className="px-16">
-            <div className="flex items-center space-x-8">
+            <div className="flex justify-center items-center space-x-8">
               <a href="#" className="text-white hover:text-orange-500 transition-colors font-medium text-sm">Home</a>
               <a href="#" className="text-gray-300 hover:text-orange-500 transition-colors font-medium text-sm">Top Stories</a>
               <div className="relative group">
